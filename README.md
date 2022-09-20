@@ -1,1 +1,1 @@
-# ELEN6885_FrozenLake
+# ELEN6885_Reinforcement_Learning_FrozenLake
